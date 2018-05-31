@@ -1,0 +1,46 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: #ffff;
+}
+
+.container{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #ffff;
+	height: 1000px;
+	margin-top: 40px;
+	padding: 20px;
+}
+
+.wrapper{
+	margin-bottom: 20px;
+}
+
+
+.data{
+ 	width: 2000px; 
+ 	padding: 200px; 
+ 	margin-top: 20px; 
+ } 
+ .data select { 
+ 	width: 2000px; 
+ 	padding: 500px; 
+ 	margin: 20px 0px; 
+ 	float: right; 
+ 	position: relative; 
+ 	margin-right: 20px; 
+ }
+
+
+.submit{
+	width: 100px;
+	border: none;
+	background: orange;
+	color:ffff;
+}
+
+
